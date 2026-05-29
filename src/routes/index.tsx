@@ -4,6 +4,7 @@ import { Hero } from "@/components/site/Hero";
 import { Marquee } from "@/components/site/Marquee";
 import { ProductSection } from "@/components/site/ProductSection";
 import { CountdownBanner } from "@/components/site/CountdownBanner";
+import { PromoBanner } from "@/components/site/PromoBanner";
 import { Reviews } from "@/components/site/Reviews";
 import { Footer } from "@/components/site/Footer";
 import type { Product } from "@/components/site/ProductCard";
