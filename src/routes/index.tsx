@@ -67,6 +67,7 @@ function Index() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Navbar />
+      <PromoBanner />
       <main>
         <Hero />
         <Marquee />
